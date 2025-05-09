@@ -5,7 +5,6 @@ Config.PedModel = `a_m_m_business_01` -- Ped model, if your unsure leave it as i
 Config.InventorySystem = 'ox'  -- Inventory system - pockets. Can choose 'qb' or 'ox'
 Config.NotificationSystem = 'qb'  -- Notify system. Can choose 'qb' or 'ox'
 Config.Target = 'ox' -- Target system - third eye. Can choose 'qb' or 'ox' 
-Config.RecyclingLocation = vec4(746.8, -1399.63, 32.65, 171.69) -- Where the marker is set once user comfirms waypoint too recycling center
 Config.PedLocation = vec4(-538.21, 5288.21, 75.36, 249.72) -- Where the peds location is
 
 
